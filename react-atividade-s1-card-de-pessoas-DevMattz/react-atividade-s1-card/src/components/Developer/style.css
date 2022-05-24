@@ -1,0 +1,12 @@
+.developerCard {
+  font-weight: 900px;
+  text-align: center;
+  background: midnightblue;
+  color: aliceblue;
+  border-radius: 4px;
+  padding: 20px;
+  width: 350px;
+  height: auto;
+  margin-top: 1.5rem;
+  box-shadow: 5px 5px 2px #222222;
+}
